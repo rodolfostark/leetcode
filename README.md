@@ -25,3 +25,9 @@ Solutions from these languages will be linked here:
 | <sub>Problem</sub>                                                                                                 | <sub>C++</sub> | <sub>C#</sub> | <sub>Rust</sub> | <sub>Python</sub>                                              |
 | ------------------------------------------------------------------------------------------------------------------ | -------------- | ------------- | --------------- | -------------------------------------------------------------- |
 | <sub>[787 - Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)</sub> | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/787-cheapest-flights-within-k-stops.py)</sub> |
+
+### 1-D Dynamic Programming
+
+| <sub>Problem</sub>                                                       | <sub>C++</sub> | <sub>C#</sub> | <sub>Rust</sub> | <sub>Python</sub>                         |
+| ------------------------------------------------------------------------ | -------------- | ------------- | --------------- | ----------------------------------------- |
+| <sub>[139 - Word Break](https://leetcode.com/problems/word-break/)</sub> | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/139-word-break.py)</sub> |
