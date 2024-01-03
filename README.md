@@ -28,6 +28,7 @@ Solutions from these languages will be linked here:
 
 ### 1-D Dynamic Programming
 
-| <sub>Problem</sub>                                                       | <sub>C++</sub> | <sub>C#</sub> | <sub>Rust</sub> | <sub>Python</sub>                         |
-| ------------------------------------------------------------------------ | -------------- | ------------- | --------------- | ----------------------------------------- |
-| <sub>[139 - Word Break](https://leetcode.com/problems/word-break/)</sub> | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/139-word-break.py)</sub> |
+| <sub>Problem</sub>                                                                                               | <sub>C++</sub> | <sub>C#</sub>                                                 | <sub>Rust</sub>                                             | <sub>Python</sub>                                             |
+| ---------------------------------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------- |
+| <sub>[139 - Word Break](https://leetcode.com/problems/word-break/)</sub>                                         | <sub>❌</sub>  | <sub>❌</sub>                                                 | <sub>❌</sub>                                               | <sub>[✔️](python/139-word-break.py)</sub>                     |
+| <sub>[300 - Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)</sub> | <sub>❌</sub>  | <sub>[✔️](csharp/300-longest-increasing-subsequence.cs)</sub> | <sub>[✔️](rust/300-longest-increasing-subsequence.rs)</sub> | <sub>[✔️](python/300-longest-increasing-subsequence.py)</sub> |
