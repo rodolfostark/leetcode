@@ -33,3 +33,9 @@ Solutions from these languages will be linked here:
 | <sub>[139 - Word Break](https://leetcode.com/problems/word-break/)</sub>                                         | <sub>❌</sub>  | <sub>❌</sub>                                                 | <sub>❌</sub>                                               | <sub>[✔️](python/139-word-break.py)</sub>                     |
 | <sub>[300 - Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)</sub> | <sub>❌</sub>  | <sub>[✔️](csharp/300-longest-increasing-subsequence.cs)</sub> | <sub>[✔️](rust/300-longest-increasing-subsequence.rs)</sub> | <sub>[✔️](python/300-longest-increasing-subsequence.py)</sub> |
 | <sub>[416 - Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)</sub>         | <sub>❌</sub>  | <sub>❌</sub>                                                 | <sub>❌</sub>                                               | <sub>[✔️](python/416-partition-equal-subset-sum.py)</sub>     |
+
+### 2-D Dynamic Programming
+
+| <sub>Problem</sub>                                                                                                                             | <sub>C++</sub> | <sub>C#</sub> | <sub>Rust</sub> | <sub>Python</sub>                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------- | --------------- | ---------------------------------------------------------------------------- |
+| <sub>[309 - Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)</sub> | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/309-best-time-to-buy-and-sell-stock-with-cooldown.py)</sub> |
