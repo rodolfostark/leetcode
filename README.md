@@ -1,6 +1,6 @@
 # Leetcode solutions for 🚀 coding interviews
 
-> This repo hosts the solutions from [LeetCode](https://leetcode.com/problemset/all/) problems to efficiently prepare for your software engineering technical interview and will periodically be updated with new solutions!
+> This repo hosts the solutions from [LeetCode](https://leetcode.com/problemset/all/) problems to efficiently prepare for your software engineering technical interview and will periodically be updated with new solutions! You can follow me there by clicking [here](https://leetcode.com/rodolfostark/)
 
 Solutions from these languages will be linked here:
 
@@ -40,3 +40,4 @@ Solutions from these languages will be linked here:
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------- | --------------- | ---------------------------------------------------------------------------- |
 | <sub>[309 - Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)</sub> | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/309-best-time-to-buy-and-sell-stock-with-cooldown.py)</sub> |
 | <sub>[518 - Coin Change II](https://leetcode.com/problems/coin-change-ii/)</sub>                                                               | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/518-coin-change-ii.py)</sub>                                |
+| <sub>[494 - Target Sum](https://leetcode.com/problems/target-sum/)</sub>                                                                       | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/494-target-sum.py)</sub>                                    |
