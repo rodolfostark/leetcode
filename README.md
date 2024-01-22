@@ -47,3 +47,9 @@ Solutions from these languages will be linked here:
 | <sub>[72 - Edit Distance](https://leetcode.com/problems/edit-distance/)</sub>                                                                  | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/115-distinct-subsequences.py)</sub>                         |
 | <sub>[312 - Burst Balloons](https://leetcode.com/problems/burst-balloons/)</sub>                                                               | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/115-distinct-subsequences.py)</sub>                         |
 | <sub>[10 - Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)</sub>                                      | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/10-regular-expression-matching.py)</sub>                    |
+
+### Greedy
+
+| <sub>Problem</sub>                                                    | <sub>C++</sub> | <sub>C#</sub> | <sub>Rust</sub> | <sub>Python</sub>                       |
+| --------------------------------------------------------------------- | -------------- | ------------- | --------------- | --------------------------------------- |
+| <sub>[55 - Jump Game](https://leetcode.com/problems/jump-game/)</sub> | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/55-jump-game.py)</sub> |
