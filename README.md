@@ -50,6 +50,7 @@ Solutions from these languages will be linked here:
 
 ### Greedy
 
-| <sub>Problem</sub>                                                    | <sub>C++</sub> | <sub>C#</sub> | <sub>Rust</sub> | <sub>Python</sub>                       |
-| --------------------------------------------------------------------- | -------------- | ------------- | --------------- | --------------------------------------- |
-| <sub>[55 - Jump Game](https://leetcode.com/problems/jump-game/)</sub> | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/55-jump-game.py)</sub> |
+| <sub>Problem</sub>                                                          | <sub>C++</sub> | <sub>C#</sub> | <sub>Rust</sub> | <sub>Python</sub>                          |
+| --------------------------------------------------------------------------- | -------------- | ------------- | --------------- | ------------------------------------------ |
+| <sub>[55 - Jump Game](https://leetcode.com/problems/jump-game/)</sub>       | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/55-jump-game.py)</sub>    |
+| <sub>[45 - Jump Game II](https://leetcode.com/problems/jump-game-ii/)</sub> | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/45-jump-game-ii.py)</sub> |
