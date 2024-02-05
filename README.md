@@ -50,8 +50,9 @@ Solutions from these languages will be linked here:
 
 ### Greedy
 
-| <sub>Problem</sub>                                                          | <sub>C++</sub> | <sub>C#</sub> | <sub>Rust</sub> | <sub>Python</sub>                          |
-| --------------------------------------------------------------------------- | -------------- | ------------- | --------------- | ------------------------------------------ |
-| <sub>[55 - Jump Game](https://leetcode.com/problems/jump-game/)</sub>       | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/55-jump-game.py)</sub>    |
-| <sub>[45 - Jump Game II](https://leetcode.com/problems/jump-game-ii/)</sub> | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/45-jump-game-ii.py)</sub> |
-| <sub>[134 - Gas Station](https://leetcode.com/problems/gas-station/)</sub>  | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/134-gas-station.py)</sub> |
+| <sub>Problem</sub>                                                                     | <sub>C++</sub> | <sub>C#</sub> | <sub>Rust</sub> | <sub>Python</sub>                                |
+| -------------------------------------------------------------------------------------- | -------------- | ------------- | --------------- | ------------------------------------------------ |
+| <sub>[55 - Jump Game](https://leetcode.com/problems/jump-game/)</sub>                  | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/55-jump-game.py)</sub>          |
+| <sub>[45 - Jump Game II](https://leetcode.com/problems/jump-game-ii/)</sub>            | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/45-jump-game-ii.py)</sub>       |
+| <sub>[134 - Gas Station](https://leetcode.com/problems/gas-station/)</sub>             | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/134-gas-station.py)</sub>       |
+| <sub>[846 - Hand of Straights](https://leetcode.com/problems/hand-of-straights/)</sub> | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/846-hand-of_straights.py)</sub> |
