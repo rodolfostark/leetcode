@@ -5,8 +5,9 @@ public:
         for (int i = 0; i < s.length(); i++) {
             if (hashmap.find(s[i]) == hashmap.end()) {
                 hashmap.insert({ s[i], i });
+            } else {
+                hashmap[s[i]] = i;
             }
-            hashmap[s[i]] = i;
         }
 
         vector<int> res;

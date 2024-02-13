@@ -4,8 +4,9 @@ public class Solution {
         for (int i = 0; i < s.Length; i++) {
             if (!hashmap.ContainsKey(s[i])) {
                 hashmap.Add(s[i], i);
+            } else {
+                hashmap[s[i]] = i;
             }
-            hashmap[s[i]] = i;
         }
         
         List<int> res = new List<int>();
