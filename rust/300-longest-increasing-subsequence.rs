@@ -4,7 +4,9 @@ impl Solution {
 
         for &num in &nums {
             match tails.binary_search(&num) {
-                Ok(_) => {},
+                Ok(_) => {
+                    
+                },
                 Err(i) => {
                     if i == tails.len() {
                         tails.push(num);
