@@ -14,6 +14,7 @@ Solutions from these languages will be linked here:
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | <sub>[0217 - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)</sub> | <sub><div align='center'>[✔️](cpp/0217-contains-duplicate.cpp)</div></sub> | <sub><div align='center'>[✔️](csharp/0217-contains-duplicate.cs)</div></sub> | <sub><div align='center'>[✔️](rust/0217-contains-duplicate.rs)</div></sub> | <sub><div align='center'>[✔️](python/0217-contains-duplicate.py)</div></sub> |
 | <sub>[392 - Is Subsequence](https://leetcode.com/problems/is-subsequence/)</sub> | <sub><div align='center'>[✔️](cpp/392-is-subsequence.cpp)</div></sub> | <sub><div align='center'>[✔️](csharp/392-is-subsequence.cs)</div></sub> | <sub><div align='center'>❌</div></sub> | <sub><div align='center'>[✔️](python/392-is-subsequence.py)</div></sub> |
+| <sub>[242 - Valid Anagram](https://leetcode.com/problems/valid-anagram/)</sub> | <sub><div align='center'>❌</div></sub> | <sub><div align='center'>❌</sub> | <sub><div align='center'>❌</div></sub> | <sub><div align='center'>[✔️](python/242-valid-anagram.py)</div></sub> |
 
 ### Graphs
 
