@@ -82,3 +82,9 @@ Solutions from these languages will be linked here:
 | <sub>[66 - Plus One](https://leetcode.com/problems/plus-one/)</sub> | <sub>❌</sub>  | <sub>❌</sub>                      | <sub>❌</sub>   | <sub>[✔️](python/66-plus-one.py)</sub> |
 | <sub>[50 - Pow(x, n)](https://leetcode.com/problems/powx-n/)</sub>  | <sub>❌</sub>  | <sub>[✔️](/csharp/50-pow.cs)</sub> | <sub>❌</sub>   | <sub>[✔️](python/50-pow.py)</sub>      |
 | <sub>[43 - Multiply Strings](leetcode.com/problems/multiply-strings/)</sub>  | <sub>❌</sub>  | <sub>[✔️](/csharp/43-multiply-strings.cs)</sub> | <sub>❌</sub>   | <sub>[✔️](python/43-multiply-strings.py)</sub>      |
+
+### Bit Manipulation
+
+| <sub>Problem</sub>                                                  | <sub>C++</sub> | <sub>C#</sub>                      | <sub>Rust</sub> | <sub>Python</sub>                      |
+| ------------------------------------------------------------------- | -------------- | ---------------------------------- | --------------- | -------------------------------------- |
+| <sub>[7 - Reverse Integer](https://leetcode.com/problems/reverse-integer/)</sub> | <sub>❌</sub>  | <sub>[✔️](csharp/7-reverse-integer.cs)</sub>                      | <sub>❌</sub>   | <sub>[✔️](python/7-reverse-integer.py)</sub> |
