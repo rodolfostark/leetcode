@@ -22,6 +22,7 @@ Solutions from these languages will be linked here:
 | <sub>Problem</sub>                                                         | <sub>C++</sub> | <sub>C#</sub> | <sub>Rust</sub> | <sub>Python</sub>                          |
 | -------------------------------------------------------------------------- | -------------- | ------------- | --------------- | ------------------------------------------ |
 | <sub>[127 - Word Ladder](https://leetcode.com/problems/word-ladder/)</sub> | <sub>❌</sub>  | <sub>❌</sub> | <sub>❌</sub>   | <sub>[✔️](python/127-word-ladder.py)</sub> |
+| <sub>[200 - Number of Islands](https://leetcode.com/problems/number-of-islands/)</sub> | <sub>❌</sub>  | <sub>[✔️](csharp/200-number-of-islands.cs)</sub> | <sub>❌</sub>   | <sub>[✔️](python/200-number-of-islands.py)</sub> |
 
 ### Advanced Graphs
 
